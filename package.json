@@ -1,0 +1,14 @@
+{
+  "name": "demonio-node",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "author": "Bryam Giraldo",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^2.0.8"
+  }
+}
